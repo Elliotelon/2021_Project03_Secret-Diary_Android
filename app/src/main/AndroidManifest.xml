@@ -18,6 +18,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".DiaryActivity"
+            android:theme="@style/Theme.Aoppart2chapter03.NoActionBar"/>
     </application>
 
 </manifest>
